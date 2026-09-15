@@ -101,13 +101,11 @@ export default function CheckoutClient() {
               <div style={{ borderRadius: 12, background: "linear-gradient(150deg,#F3EAFA,#E4F2EA)", padding: 18, display: "flex", flexDirection: "column", gap: 7 }}>
                 <div style={{ fontSize: 11.5, fontWeight: 700, letterSpacing: ".1em", textTransform: "uppercase", color: "#7B57A6" }}>MiteXpert bank account</div>
                 <div style={{ fontSize: 14.5, lineHeight: "23px", color: "#2B2440" }}>
-                  Account title: <strong>MiteXpert</strong>
+                  Account title: <strong>MITEXPERT</strong>
                   <br />
                   Bank: Meezan Bank
                   <br />
-                  Account no: 0123-4567890123
-                  <br />
-                  IBAN: PK00MEZN0000000000000000
+                  Account no: 99700114859511
                 </div>
                 <div style={{ marginTop: 4, fontSize: 13.5, lineHeight: "21px", fontWeight: 700, color: "#7B57A6" }}>
                   Send the payment screenshot to WhatsApp 0331 729 4872 to confirm your order.
